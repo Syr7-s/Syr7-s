@@ -14,9 +14,7 @@
 <p>
 <h2 align="center">🐦 Github Statistics </h2>
 </p>
-<p>
-<hr>
- <img height="182" src="https://github-readme-stats.vercel.app/api?username=Syr7-s&show_icons=true&theme=onedark" alt="Syr7-s" /> <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syr7-s&layout=compact&show_icons=true&theme=onedark" alt="Syr7-s" /> </p>
+<p><img height="182" src="https://github-readme-stats.vercel.app/api?username=Syr7-s&show_icons=true&theme=onedark" alt="Syr7-s" /> <img height="182" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syr7-s&layout=compact&show_icons=true&theme=onedark" alt="Syr7-s" /> </p>
 
 <h3>Connect</h3>
  <p align="center">

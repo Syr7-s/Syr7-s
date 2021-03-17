@@ -21,7 +21,7 @@
  <p align="center">
   <samp>
 <p align="left">
-<a href="https://linkedin.com/in/isasayar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Syr7-s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/isasayar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Syr7-s" height="30" width="40" /></a>
   </samp>
   <br>
  </p>

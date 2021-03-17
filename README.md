@@ -16,7 +16,9 @@
 </p>
 <p><img height="182" width ="400" src="https://github-readme-stats.vercel.app/api?username=Syr7-s&show_icons=true&theme=onedark" alt="Syr7-s" /> <img height="182" width ="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syr7-s&layout=compact&show_icons=true&theme=onedark" alt="Syr7-s"/> 
 </p>
-
+<p>
+![](https://komarev.com/ghpvc/?username=Syr7-s&color=dc143c)
+ </p>
 <h3>Connect</h3>
  <p align="center">
   <samp>

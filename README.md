@@ -9,7 +9,7 @@
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I love to code and play game.
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/Syr7-s.gif?z=6)]](https://github4life.herokuapp.com/Syr7-s)
+[![GitHub Game of Life](https://github4life.herokuapp.com/Syr7-s.gif?z=6)](https://github4life.herokuapp.com/Syr7-s)
 
 <p>
 <h2 align="center">🐦 Github Statistics </h2>

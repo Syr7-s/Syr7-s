@@ -1,11 +1,8 @@
 <h3 align="center"> Hi 👋 there, I'm Isa SAYAR</a></h3>
 
-- 🔭 I’m currently working on Micro Service Online Bank projects.
-- 🌱 I’m currently learning Kubernetes and Docker.
-- 👯 I’m looking to collaborate with Java backend developers.
+- 🌱 I’m currently learning Kubernetes,Docker and Cloud.
 - 💬 Ask me about anything.
 - 📫 How to reach me: isa.sayar1725@gmail.com
-- 🤔 I’m looking for help with Oracle Cloud.
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: I love to code and play game.
 
